@@ -22,35 +22,43 @@ public static class SeedData
             context.Movie.AddRange(
                 new Movie
                 {
-                    Title = "When Harry Met Sally",
-                    ReleaseDate = DateTime.Parse("1989-2-12"),
-                    Genre = "Romantic Comedy",
-                    Rating = "R",
-                    Price = 7.99M
-                },
-                new Movie
-                {
-                    Title = "Ghostbusters ",
-                    ReleaseDate = DateTime.Parse("1984-3-13"),
-                    Genre = "Comedy",
-                    Rating = "R",
-                    Price = 8.99M
-                },
-                new Movie
-                {
-                    Title = "Ghostbusters 2",
-                    ReleaseDate = DateTime.Parse("1986-2-23"),
-                    Genre = "Comedy",
+                    Title = "The Dark Night",
+                    ReleaseDate = DateTime.Parse("2008-7-18"),
+                    Genre = "Action",
                     Rating = "R",
                     Price = 9.99M
                 },
                 new Movie
                 {
-                    Title = "Rio Bravo",
-                    ReleaseDate = DateTime.Parse("1959-4-15"),
-                    Genre = "Western",
+                    Title = "Iron Man",
+                    ReleaseDate = DateTime.Parse("2008-5-02"),
+                    Genre = "Sci-Fi",
                     Rating = "R",
-                    Price = 3.99M
+                    Price = 8.99M
+                },
+                new Movie
+                {
+                    Title = "Edward Scissorhands",
+                    ReleaseDate = DateTime.Parse("1990-2-23"),
+                    Genre = "Romance",
+                    Rating = "R",
+                    Price = 5.99M
+                },
+                new Movie
+                {
+                    Title = "The Shawshank Redemption",
+                    ReleaseDate = DateTime.Parse("1994-4-15"),
+                    Genre = "Drama",
+                    Rating = "R",
+                    Price = 4.99M
+                },
+                new Movie
+                {
+                    Title = "Memento",
+                    ReleaseDate = DateTime.Parse("2000-8-16"),
+                    Genre = "Mystery",
+                    Rating = "R",
+                    Price = 6.99M
                 }
             );
             context.SaveChanges();

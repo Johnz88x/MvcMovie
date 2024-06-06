@@ -156,8 +156,7 @@ Then added new movies to the list of My movies
 4 movies added with their generes included.
 Succesfully completed the Part4 
 
-20240529
-
+2024-05-29
 <<<Step 5>>>
 
 0100
@@ -318,10 +317,15 @@ Then ran the application once again
 The application executed successfully
 
 0400
-Then check
+Then checked the values for ratings updated succesfully
+The clicked on the edit option 
+Edited the Ratings option
+Success RAtings was cheanged successfully
 
+2024-06-02
+1100
 <<<STEP 9>>>
-2024-06-02 1100
+
 
 1105
 Need to add a validation to the project
@@ -351,6 +355,17 @@ opened a create page in the application
 1150
 Then tried saving the page without providing any inputs 
 Success...the validations were asked
+Good...completed the editing for the output within 50 minutes
+
+Total Time : 50 minutes
+
+2024-06-06
+0200
+
+<<<Creating Github and Pushing the data Project to the Github Repository>>>
+
+0230
+
 
 
 

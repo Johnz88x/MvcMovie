@@ -360,11 +360,33 @@ Good...completed the editing for the output within 50 minutes
 Total Time : 50 minutes
 
 2024-06-06
-0200
+1400
 
 <<<Creating Github and Pushing the data Project to the Github Repository>>>
 
-0230
+1430
+Created an account on Github
+
+1440
+Opened the  Git option in Visual Studio
+Clicked on create new repository
+Added our Github account to the visual studio
+
+1445
+Made changes to the SeedData.cs file inorder to add new movie list
+
+1450
+Deleted all the contents in the DB manully
+
+1455
+Ran the application once again, executed successfully
+The new movie list was updated in the DB and shown in Movies List
+
+1500
+After edit commited the file and then pushed the updates to Github.
+
+<<<END>>>
+
 
 
 

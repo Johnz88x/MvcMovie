@@ -309,9 +309,16 @@ Then will Ctrl+Shift+B to build the program
 Open the MoviesController.cs to edit the file
 Update the bind 
 
-0340
+0350
 The Database migration completed successfully
 20240530194324_Rating.cs
+
+0355
+Then ran the application once again
+The application executed successfully
+
+0400
+Then check
 
 <<<STEP 9>>>
 2024-06-02 1100
